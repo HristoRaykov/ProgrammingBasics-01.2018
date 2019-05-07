@@ -1,0 +1,7 @@
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\02.Shopping\bin\Debug\02.Shopping.exe.config
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\02.Shopping\bin\Debug\02.Shopping.exe
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\02.Shopping\bin\Debug\02.Shopping.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\02.Shopping\obj\Debug\02.Shopping.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\02.Shopping\obj\Debug\02.Shopping.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\02.Shopping\obj\Debug\02.Shopping.exe
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\02.Shopping\obj\Debug\02.Shopping.pdb

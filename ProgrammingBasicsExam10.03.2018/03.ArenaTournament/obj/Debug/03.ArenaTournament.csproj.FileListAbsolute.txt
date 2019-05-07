@@ -1,0 +1,7 @@
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\03.ArenaTournament\bin\Debug\03.ArenaTournament.exe.config
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\03.ArenaTournament\bin\Debug\03.ArenaTournament.exe
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\03.ArenaTournament\bin\Debug\03.ArenaTournament.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\03.ArenaTournament\obj\Debug\03.ArenaTournament.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\03.ArenaTournament\obj\Debug\03.ArenaTournament.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\03.ArenaTournament\obj\Debug\03.ArenaTournament.exe
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\03.ArenaTournament\obj\Debug\03.ArenaTournament.pdb

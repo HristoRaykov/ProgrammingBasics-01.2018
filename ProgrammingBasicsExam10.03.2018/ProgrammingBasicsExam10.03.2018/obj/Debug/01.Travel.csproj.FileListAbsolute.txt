@@ -1,0 +1,7 @@
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\ProgrammingBasicsExam10.03.2018\bin\Debug\ProgrammingBasicsExam10.03.2018.exe.config
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\ProgrammingBasicsExam10.03.2018\bin\Debug\ProgrammingBasicsExam10.03.2018.exe
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\ProgrammingBasicsExam10.03.2018\bin\Debug\ProgrammingBasicsExam10.03.2018.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\ProgrammingBasicsExam10.03.2018\obj\Debug\01.Travel.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\ProgrammingBasicsExam10.03.2018\obj\Debug\01.Travel.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\ProgrammingBasicsExam10.03.2018\obj\Debug\ProgrammingBasicsExam10.03.2018.exe
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\ProgrammingBasicsExam10.03.2018\obj\Debug\ProgrammingBasicsExam10.03.2018.pdb

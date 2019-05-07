@@ -1,0 +1,6 @@
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\06.SpecialCombinations\bin\Debug\06.SpecialCombinations.exe.config
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\06.SpecialCombinations\bin\Debug\06.SpecialCombinations.exe
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\06.SpecialCombinations\bin\Debug\06.SpecialCombinations.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\06.SpecialCombinations\obj\Debug\06.SpecialCombinations.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\06.SpecialCombinations\obj\Debug\06.SpecialCombinations.exe
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\06.SpecialCombinations\obj\Debug\06.SpecialCombinations.pdb

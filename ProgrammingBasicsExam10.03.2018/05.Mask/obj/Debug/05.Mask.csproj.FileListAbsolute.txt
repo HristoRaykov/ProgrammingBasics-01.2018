@@ -1,0 +1,7 @@
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\05.Mask\bin\Debug\05.Mask.exe.config
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\05.Mask\bin\Debug\05.Mask.exe
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\05.Mask\bin\Debug\05.Mask.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\05.Mask\obj\Debug\05.Mask.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\05.Mask\obj\Debug\05.Mask.exe
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\05.Mask\obj\Debug\05.Mask.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Solutions\ProgrammingBasicsExam10.03.2018\05.Mask\obj\Debug\05.Mask.csprojResolveAssemblyReference.cache
